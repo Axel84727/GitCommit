@@ -1,2 +1,4 @@
-0 Luz
-1 No Luz
+0 No paiting lights
+1 No paiting no lights
+2 Paiting no lights
+3 Paiting with lights
